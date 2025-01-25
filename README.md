@@ -2,7 +2,7 @@
 
 Flowchart of the work
 
-<img width="300" alt="assignment1" src="https://github.com/user-attachments/assets/bff14c21-4296-4189-8a49-c6f9a744c5aa" />
+<img width="500" height="400" alt="assignment1" src="https://github.com/user-attachments/assets/bff14c21-4296-4189-8a49-c6f9a744c5aa" />
 
 Blue -> Training Phase, Red  -> Testing Phase
 
