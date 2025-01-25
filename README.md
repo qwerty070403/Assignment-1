@@ -6,4 +6,17 @@ Flowchart of the work
 
 Blue -> Training Phase, Red  -> Testing Phase
 
-//Note:- We have done Training and Testing on both Nearest Neighbour and SVM Classifier.
+**Note**:- We have done Training and Testing on both Nearest Neighbour and SVM Classifier.
+
+
+**Results**
+
+**When SVM is Used as the Classifier**
+
+
+
+
+
+
+
+**When Nearest Neighbour is Used as the Classifier**
