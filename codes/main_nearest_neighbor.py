@@ -48,11 +48,8 @@ print(f"Testing images: {len(test_images)}")
 
 #dataset splitted
 
-from sklearn.cluster import KMeans
-import pickle
-
-# Number of clusters
-num_clusters = 50 # Vary number of codewords accordingly 50 value gives best train and validation accuracy
+# Number of codewords in clusters
+num_clusters = 50 # Vary number of codewords accordingly, 50 value gives best train and validation accuracy when nearest neighbor is used as classifier
 
 # Build vocabulary
 vocab = build_vocabulary(train_images, vocab_size=num_clusters)
