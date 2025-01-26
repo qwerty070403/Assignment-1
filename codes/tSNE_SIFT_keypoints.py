@@ -1,3 +1,6 @@
+#Plotting Keypoints t-SNE(Focuses on analyzing the local features (keypoints) extracted by SIFT.)
+
+
 # Use OpenCV SIFT to extract descriptors for only 10 images
 import cv2
 from PIL import Image
