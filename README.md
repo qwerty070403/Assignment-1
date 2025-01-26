@@ -32,7 +32,7 @@ In the above flowchart:
 
 ---
 
-### Classifier Results
+### Accuracy Results
 
 #### When SVM is Used as the Classifier
 
