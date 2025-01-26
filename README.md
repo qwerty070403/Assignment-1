@@ -45,3 +45,10 @@ In the above flowchart:
 ![Nearest Neighbour Results](https://github.com/user-attachments/assets/c449a7d3-ff1e-4455-93b9-1b8391cf6c1c)
 
 - **Test Accuracy for N = 50:** 56.43%
+
+---
+
+## Colab Links
+
+- [Link to Google Colab using SVM as Classifier](https://colab.research.google.com/drive/1fyAhR77Ib6Y3PUoiDROsfxTBKRZP_Hxt?usp=sharing)  
+- [Link to Google Colab using Nearest Neighbour as Classifier](https://colab.research.google.com/drive/1Xb5lcdU9CrP4iBU7GqzmkBtNgz8ihNp0?usp=sharing)
